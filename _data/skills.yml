@@ -17,8 +17,12 @@
 
 # Bash
 - skill: Bash
-  description: I have installed Linux distributions on some of my machines and the shell provided was Bash. I have also taken a Unix and Scripting course which exposed me to Bourne shell, C shell, Korn shell and Bash.
+  description: I have installed Linux distributions on some of my machines and the shell provided was Bash. I have also taken a Unix and Scripting course which exposed me to Bourne shell, C shell, Korn shell and Bash. I have written several scripts in Bash that practices its syntax.
 
 # Perl
 - skill: Perl
   description: From my Unix and Scripting course, I have written several scripts in Perl. I have written a script that provides a menu-driven interface to the user that maintains a data file.
+
+# PC building
+- skill: PC building
+  description: I enjoy building desktop computers and have built a total of three complete desktops. From this experience, I am familiar with computer hardware specifications, the assembly of computer parts as well as the installation of operating systems.
