@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Java
+- skill: Java
+  description: I have three years of experience in this language. The vast majority of my coursework has been written in Java. I am proficient in object oriented design, documentation using Javadoc, implementation of data structures and menu-driven user experience through the command line.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# C++
+- skill: C++
+  description: I have studied and practiced the basic syntax of C++. I am familiar with its syntax for the core concepts of object oriented programming.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Git
+- skill: Git
+  description: I am familiar with using Git for version control. I use Git through the command line, so I am familiar with the commands to check the working tree status, staging files for a commit, committing files with a message and branching.
+
+# Markdown
+- skill: Markdown
+  description: I have experience in generating Markdown files that provide descriptive information about my projects. I know how to add images, generate lists, partition information in sections with headers and provide graphical, hierarchical trees.
+
+# Bash
+- skill: Bash
+  description: I have installed Linux distributions on some of my machines and the shell provided was Bash. I have also taken a Unix and Scripting course which exposed me to Bourne shell, C shell, Korn shell and Bash.
+
+# Perl
+- skill: Perl
+  description: From my Unix and Scripting course, I have written several scripts in Perl. I have written a script that provides a menu-driven interface to the user that maintains a data file.

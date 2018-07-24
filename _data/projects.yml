@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Circuit Simulator
+- project: Circuit Simulator
+  role: Creator
+  duration: Apr, 2018 &mdash; Present
+  url: "https://github.com/clovenski/circuit-simulator"
+  description: A program that can help design simple circuits, allowing users to test the logic of their circuits.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Deterministic PDA
+- project: Deterministic PDA
+  role: Creator
+  duration: Spring 2018
+  url: "https://github.com/clovenski/deterministic-pda"
+  description: Demonstration of my understanding of a deterministic push-down automata machine.
+
+# Graphs - shortest path
+- project: Graphs, shortest path
+  role: Creator
+  duration: Winter 2018
+  url: "https://github.com/clovenski/w18-cs241-project3"
+  description: Implementation of Dijkstra's algorithm in finding the shortest path in graphs.
