@@ -5,7 +5,11 @@
 
 # C++
 - skill: C++
-  description: I have studied and practiced the basic syntax of C++. I am familiar with its syntax for the core concepts of object oriented programming.
+  description: I have studied and practiced the basic syntax of C++. I am familiar with how the core concepts of object oriented programming are implemented.
+
+# JavaScript
+- skill: JavaScript
+  description: I am familiar with the basic syntax. I have explored enough to write a working game that can be played on a web browser.
 
 # Git
 - skill: Git

@@ -8,6 +8,13 @@
   url: "https://github.com/clovenski/circuit-simulator"
   description: A program that can help design simple circuits, allowing users to test the logic of their circuits.
 
+# Memory Game
+- project: Memory Game
+  role: Creator
+  duration: July, 2018 &mdash; Present
+  url: "https://github.com/clovenski/memory-game"
+  description: A simple memory game where you try to match two tiles in the grid that contain the same element.
+
 # Deterministic PDA
 - project: Deterministic PDA
   role: Creator
