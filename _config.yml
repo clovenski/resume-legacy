@@ -14,13 +14,13 @@ resume_name:                    "Joel Tengco"
 resume_title:                   "Computer Science Undergraduate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "joeltengco@yahoo.com"
+resume_contact_email:           "jitengco@cpp.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "310-977-7425"
 resume_contact_address:         "750 E 3rd St. Apt. K12, Pomona, CA 91766"
 
-resume_header_contact_info:     "750 E 3rd St. Apt. K12, Pomona, CA 91766 • 310-977-7425 • joeltengco@yahoo.com"
+resume_header_contact_info:     "750 E 3rd St. Apt. K12, Pomona, CA 91766 • 310-977-7425 • jitengco@cpp.edu"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am currently a Computer Science undergraduate in my senior year. I am a person that enjoys learning new concepts and problem solving. I have a strong passion for technology and mathematics. One particular goal I have after I graduate is to contribute towards software pertaining to education. Other topics that interest me are back-end development, machine learning and computer vision.</p>"
