@@ -4,27 +4,41 @@
 # Circuit Simulator
 - project: Circuit Simulator
   role: Creator
-  duration: Apr, 2018 &mdash; Present
+  duration: Apr, 2018 &mdash; July, 2018
   url: "https://github.com/clovenski/circuit-simulator"
   description: A program that can help design simple circuits, allowing users to test the logic of their circuits.
+
+# Face ID Demo
+- project: Face ID Demo
+  role: Creator
+  duration: Nov, 2018 &mdash; Dec, 2018
+  url: "https://github.com/clovenski/face-id-demo"
+  description: A program that provides a demo for facial recognition using dlib and OpenCV. A research poster was done on this project for class and is available to show upon request.
 
 # Memory Game
 - project: Memory Game
   role: Creator
-  duration: July, 2018 &mdash; Present
+  duration: July, 2018 &mdash; Aug, 2018
   url: "https://github.com/clovenski/memory-game"
   description: A simple memory game where you try to match two tiles in the grid that contain the same element.
 
-# Deterministic PDA
-- project: Deterministic PDA
+# MNIST Demo
+- project: MNIST Demo
   role: Creator
-  duration: Spring 2018
-  url: "https://github.com/clovenski/deterministic-pda"
-  description: Demonstration of my understanding of a deterministic push-down automata machine.
+  duration: Oct, 2018 &mdash; Nov, 2018
+  url: "https://github.com/clovenski/mnist-demo"
+  description: Application to demo mnist handwritten digits from webcam data.
 
-# Graphs - shortest path
-- project: Graphs, shortest path
-  role: Creator
-  duration: Winter 2018
-  url: "https://github.com/clovenski/w18-cs241-project3"
-  description: Implementation of Dijkstra's algorithm in finding the shortest path in graphs.
+# # Deterministic PDA
+# - project: Deterministic PDA
+#   role: Creator
+#   duration: Spring 2018
+#   url: "https://github.com/clovenski/deterministic-pda"
+#   description: Demonstration of my understanding of a deterministic push-down automata machine.
+
+# # Graphs - shortest path
+# - project: Graphs, shortest path
+#   role: Creator
+#   duration: Winter 2018
+#   url: "https://github.com/clovenski/w18-cs241-project3"
+#   description: Implementation of Dijkstra's algorithm in finding the shortest path in graphs.

@@ -1,7 +1,12 @@
 # Skills
+
 # Java
 - skill: Java
   description: I have three years of experience in this language. The vast majority of my coursework has been written in Java. I am proficient in object oriented design, documentation using Javadoc, implementation of data structures and menu-driven user experience through the command line.
+
+# Python
+- skill: Python
+  description: I practiced Python mainly in the Machine Learning course I have taken. Experience would lean more towards using machine learning and computer vision libraries to accomplish tasks.
 
 # C++
 - skill: C++
@@ -15,17 +20,25 @@
 - skill: Git
   description: I am familiar with using Git for version control. I use Git through the command line, so I am familiar with the commands to check the working tree status, staging files for a commit, committing files with a message and branching.
 
-# Markdown
-- skill: Markdown
-  description: I have experience in generating Markdown files that provide descriptive information about my projects. I know how to add images, generate lists, partition information in sections with headers and provide graphical, hierarchical trees.
+# Machine Learning
+- skill: Machine Learning
+  description: From a Machine Learning course, I learned topics such as linear and logistic regression, neural networks, clustering and dimensionality reduction. Majority of practice was in convolutional neural networks. We also had in-class Kaggle competitions for our projects.
 
-# Bash
-- skill: Bash
-  description: I have installed Linux distributions on some of my machines and the shell provided was Bash. I have also taken a Unix and Scripting course which exposed me to Bourne shell, C shell, Korn shell and Bash. I have written several scripts in Bash that practices its syntax.
+# Linux
+- skill: Linux
+  description: I have installed Linux distributions on some of my machines. I am comfortable with the command line interface along with the basic utilities on Linux as was learned in a Unix and Scripting course I have taken.
 
-# Perl
-- skill: Perl
-  description: From my Unix and Scripting course, I have written several scripts in Perl. I have written a script that provides a menu-driven interface to the user that maintains a data file.
+# # Markdown
+# - skill: Markdown
+#   description: I have experience in generating Markdown files that provide descriptive information about my projects. I know how to add images, generate lists, partition information in sections with headers and provide graphical, hierarchical trees.
+
+# # Bash
+# - skill: Bash
+#   description: I have installed Linux distributions on some of my machines and the shell provided was Bash. I have also taken a Unix and Scripting course which exposed me to Bourne shell, C shell, Korn shell and Bash. I have written several scripts in Bash that practices its syntax.
+
+# # Perl
+# - skill: Perl
+#   description: From my Unix and Scripting course, I have written several scripts in Perl. I have written a script that provides a menu-driven interface to the user that maintains a data file.
 
 # PC building
 - skill: PC building

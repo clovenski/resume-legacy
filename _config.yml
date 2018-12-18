@@ -23,7 +23,7 @@ resume_contact_address:         "750 E 3rd St. Apt. K12, Pomona, CA 91766"
 resume_header_contact_info:     "750 E 3rd St. Apt. K12, Pomona, CA 91766 • 310-977-7425 • jitengco@cpp.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am currently a Computer Science undergraduate in my senior year. I am a person that enjoys learning new concepts and problem solving. I have a strong passion for technology and mathematics. One particular goal I have after I graduate is to contribute towards software pertaining to education. Other topics that interest me are back-end development, machine learning and computer vision.</p>"
+resume_header_intro: "<p>I am currently a Computer Science undergraduate in my senior year. I am a person that enjoys learning new concepts and solving challenging problems that require critical thought. I have a strong passion for computer science and mathematics. One particular goal I have after I graduate is to contribute towards software pertaining to education. Other topics that interest me are back-end development, machine learning and computer vision.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
