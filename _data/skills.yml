@@ -10,11 +10,11 @@
 
 # C++
 - skill: C++
-  description: I have studied and practiced the basic syntax of C++. I am familiar with how the core concepts of object oriented programming are implemented.
+  description: Some of my projects and coursework needed to be done in C++. I am familiar with the fundamentals of the language and would have no problem forming a solution in C++.
 
 # JavaScript
 - skill: JavaScript
-  description: I am familiar with the basic syntax. I have explored enough to write a working game that can be played on a web browser.
+  description: I have created a simple memory game in JavaScript, which can be played on a browser. I used JavaScript to communicate to a backend API in one of my projects.
 
 # Git
 - skill: Git
@@ -41,5 +41,5 @@
 #   description: From my Unix and Scripting course, I have written several scripts in Perl. I have written a script that provides a menu-driven interface to the user that maintains a data file.
 
 # PC building
-- skill: PC building
-  description: I enjoy building desktop computers and have built a total of three complete desktops. From this experience, I am familiar with computer hardware specifications, the assembly of computer parts as well as the installation of operating systems.
+# - skill: PC building
+#   description: I enjoy building desktop computers and have built a total of three complete desktops. From this experience, I am familiar with computer hardware specifications, the assembly of computer parts as well as the installation of operating systems.

@@ -15,6 +15,13 @@
   url: "https://github.com/clovenski/face-id-demo"
   description: A program that provides a demo for facial recognition using dlib and OpenCV. A research poster was done on this project for class and is available to show upon request.
 
+# Complete My Recipe
+- project: Complete My Recipe
+  role: Creator
+  duration: Feb, 2019 &mdash; Present
+  url: "http://completemyrecipe.pythonanywhere.com"
+  description: Enter food ingredients you currently have to find possible recipes you can make.
+
 # Memory Game
 - project: Memory Game
   role: Creator
