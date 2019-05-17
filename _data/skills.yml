@@ -24,6 +24,10 @@
 - skill: Machine Learning
   description: From a Machine Learning course, I learned topics such as linear and logistic regression, neural networks, clustering and dimensionality reduction. Majority of practice was in convolutional neural networks. We also had in-class Kaggle competitions for our projects.
 
+# SQL
+- skill: SQL
+  description: From a Databases course, I practiced SQL statements extensively throughout the semester. Assignments included working in Microsoft Access to solve query problems, practicing NoSQL with MongoDB and many challenging SQL problems. ER and normalization were also briefly covered.
+
 # Linux
 - skill: Linux
   description: I have installed Linux distributions on some of my machines. I am comfortable with the command line interface along with the basic utilities on Linux as was learned in a Unix and Scripting course I have taken.
