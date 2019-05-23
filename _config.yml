@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Joel Tengco"
-resume_title:                   "Computer Science Undergraduate"
+resume_title:                   "Entry-Level Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jitengco@cpp.edu"
@@ -23,9 +23,8 @@ resume_contact_address:         "750 E 3rd St. Apt. K12, Pomona, CA 91766"
 resume_header_contact_info:     "750 E 3rd St. Apt. K12, Pomona, CA 91766 • 310-977-7425 • jitengco@cpp.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am currently a Computer Science undergraduate in my senior year.
+resume_header_intro: "<p>I am a recent graduate in Computer Science from Cal Poly Pomona.
   I am a person that genuinely enjoys learning new concepts and technologies.
-  I have a strong passion for computer science and mathematics.
   I am a person that starts on projects and tasks early to give enough time for thorough testing and analysis.
   I am always looking for opportunities to grow as a software engineer.
   One particular goal I have is to contribute towards software pertaining to education.
