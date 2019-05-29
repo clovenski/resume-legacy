@@ -1,6 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# DTM Simulator
+- project: DTM Simulator
+  role: Creator
+  duration: May 2019
+  url: "https://github.com/clovenski/dtm-simulator"
+  description: A tool that can help design and test deterministic Turing machines.
+  outcomes: GUI development with Python Tkinter
+
 # Circuit Simulator
 - project: Circuit Simulator
   role: Creator

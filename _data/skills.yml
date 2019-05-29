@@ -2,11 +2,11 @@
 
 # Java
 - skill: Java
-  description: I have three years of experience in this language. The vast majority of my coursework has been written in Java. I am proficient in object oriented design, documentation using Javadoc, implementation of data structures and menu-driven user experience through the command line.
+  description: I have four years of experience in this language. The vast majority of my coursework has been written in Java. I am proficient in object oriented design, documentation using Javadoc, implementation of data structures and menu-driven user experience through the command line.
 
 # Python
 - skill: Python
-  description: I practiced Python mainly in the Machine Learning course I have taken. Experience would lean more towards using machine learning and computer vision libraries to accomplish tasks.
+  description: I have practiced Python for about a year. Experience would lean more towards using machine learning and computer vision libraries such as Keras and SciPy to accomplish tasks. I have also practice the Tkinter framework for GUI development. I believe Python to be the second language I am most comfortable with; first being Java.
 
 # C++
 - skill: C++
