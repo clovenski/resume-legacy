@@ -8,6 +8,7 @@
   url: "https://github.com/clovenski/dtm-simulator"
   description: A tool that can help design and test deterministic Turing machines.
   outcomes: GUI development with Python Tkinter
+  preview: dtm-sim.gif
 
 # Project Whiteboard
 - project: Project Whiteboard
@@ -45,7 +46,7 @@
 - project: Complete My Recipe
   role: Creator
   duration: Feb, 2019 &mdash; May, 2019
-  url: "http://completemyrecipe.pythonanywhere.com"
+  url: "http://github.com/clovenski/complete-my-recipe"
   description: Enter food ingredients you currently have to find possible recipes you can make.
   outcomes: Django REST framework, HTML/CSS/JavaScript, web application deployment to PythonAnywhere
 
