@@ -38,7 +38,7 @@
 - project: Face ID Demo
   role: Creator
   duration: Nov, 2018 &mdash; Dec, 2018
-  url: "https://github.com/clovenski/face-id-demo"
+  # url: "https://github.com/clovenski/face-id-demo"
   description: A program that provides a demo for facial recognition using dlib and OpenCV. A research poster was done on this project for class and is available to show upon request.
   outcomes: interfacing a computer vision library with webcam data
 
