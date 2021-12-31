@@ -1,5 +1,11 @@
-# Resume
+# Credit
 
-My resume, built with Angular.
+Template was provided by [Joel Glovier](https://github.com/jglovier)
 
-This repo only contains the dist files. Its purpose is to easily host it on GitHub.
+A few modifications were done by me
+
+An updated original of the template can be found [here](https://github.com/jglovier/resume-template)
+
+## Notes
+
+`bundle exec jekyll serve` to run locally
